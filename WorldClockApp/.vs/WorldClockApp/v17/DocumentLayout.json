@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\home\\clock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\home\\clock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\home\\weather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\home\\weather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\home\\clock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\home\\clock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\views\\home\\currency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\views\\home\\currency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|solutionrelative:worldclockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B68F2DDC-6148-4430-8D26-4EC56425B416}|WorldClockApp\\WorldClockApp.csproj|c:\\users\\legacy\\documents\\github\\world_clock\\world_clock\\worldclockapp\\worldclockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Clock.cshtml",
               "DocumentMoniker": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\Views\\Home\\Clock.cshtml",
               "RelativeDocumentMoniker": "WorldClockApp\\Views\\Home\\Clock.cshtml",
               "ToolTip": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\Views\\Home\\Clock.cshtml",
               "RelativeToolTip": "WorldClockApp\\Views\\Home\\Clock.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAKAAAA",
+              "ViewState": "AQIAABEAAAAAAABZt/YuwBwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-11T06:11:04.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WorldClockApp\\Views\\Shared\\_Layout.cshtml",
@@ -103,14 +103,14 @@
               "RelativeDocumentMoniker": "WorldClockApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WorldClockApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAUwHUAAAAJAAAA",
+              "ViewState": "AQIAABYAAAAAAEDCqTkhwHUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T00:19:02.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\appsettings.json",
               "RelativeDocumentMoniker": "WorldClockApp\\appsettings.json",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Currency.cshtml",
               "DocumentMoniker": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\Views\\Home\\Currency.cshtml",
               "RelativeDocumentMoniker": "WorldClockApp\\Views\\Home\\Currency.cshtml",
@@ -175,13 +175,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WorldClockApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Legacy\\Documents\\GitHub\\World_Clock\\World_Clock\\WorldClockApp\\WorldClockApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WorldClockApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-11T00:18:21.639Z",
               "EditorCaption": ""

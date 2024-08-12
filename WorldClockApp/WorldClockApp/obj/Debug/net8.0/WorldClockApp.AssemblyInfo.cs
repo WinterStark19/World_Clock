@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorldClockApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+153eb648f3f136de1ca87f19605239d39ef572e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853be677ed29cec9e5848abfd44fa8b47bda743d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorldClockApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorldClockApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
