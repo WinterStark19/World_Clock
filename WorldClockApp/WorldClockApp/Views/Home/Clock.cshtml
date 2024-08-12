@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Clock</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding-top: 50px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1 class="heading">Check the Time</h1>
+
+        <form asp-action="Clock" method="post">
+            <label for="location">Enter location:</label>
+            <input type="text" id="location" name="location" class="form-control" />
+            <br><br>
+            <button type="submit" class="btn btn-primary">Find Time</button>
+        </form>
+
+        @if (!string.IsNullOrEmpty(ViewBag.Location))
+        {
+            <p>Location: @ViewBag.Location, @ViewBag.Country</p>
+            <p>Current time: @ViewBag.Time</p>
+        }
+        else if (!string.IsNullOrEmpty(ViewBag.Error))
+        {
+            <p>@ViewBag.Error</p>
+        }
+    </div>
+    <div>
+        <h2 class="heading">Compare Times</h2>
+        <form asp-action="Clock" method="post">
+            <div class="row">
+                <div class="col">
+                    <label for="location1">Enter first location:</label>
+                    <input type="text" id="location1" name="location1" class="form-control" />
+                </div>
+                <div class="col">
+                    <label for="location2">Enter second location:</label>
+                    <input type="text" id="location2" name="location2" class="form-control" />
+                </div>
+            </div>
+            <br>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Compare Times</button>
+            </div>
+        </form>
+
+     <div style="height: 20px;"></div>
+        @if (!string.IsNullOrEmpty(ViewBag.Location1) && !string.IsNullOrEmpty(ViewBag.Location2))
+        {
+            <p>Location 1: @ViewBag.Location1, @ViewBag.Country1</p>
+            <p>Current time in Location 1: @ViewBag.Time1</p>
+            <br>
+            <p>Location 2: @ViewBag.Location2, @ViewBag.Country2</p>
+            <p>Current time in Location 2: @ViewBag.Time2</p>
+            <br>
+            <p>Time difference: @ViewBag.TimeDifference</p>
+        }
+        else if (!string.IsNullOrEmpty(ViewBag.ErrorComparison))
+        {
+            <p>@ViewBag.ErrorComparison</p>
+        }
+    </div>
+</body>
+</html>
